@@ -11,7 +11,7 @@ cp ./voidcraft-wezterm-theme/voidcraft.toml ~/.config/wezterm/colors/
 
 And add the following configs into your wezterm.lua file
 ```toml
-color_scheme = "voidcraft",
-use_fancy_tab_bar = false,
-window_decorations = "RESIZE",
+color_scheme = "voidcraft"
+use_fancy_tab_bar = false
+window_decorations = "RESIZE"
 ```
